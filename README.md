@@ -4,10 +4,6 @@ The open-source AI chat app for everyone.
 
 <img src="./public/readme/screenshot.png" alt="Chatbot UI" width="600">
 
-## Demo
-
-View the latest demo [here](https://x.com/mckaywrigley/status/1738273242283151777?s=20).
-
 ## Updates
 
 Hey everyone! I've heard your feedback and am working hard on a big update.
@@ -23,10 +19,6 @@ Be back soon.
 Use Chatbot UI without having to host it yourself!
 
 Find the official hosted version of Chatbot UI [here](https://chatbotui.com).
-
-## Sponsor
-
-If you find Chatbot UI useful, please consider [sponsoring](https://github.com/sponsors/mckaywrigley) me to support my open-source work :)
 
 ## Issues
 
@@ -161,8 +153,6 @@ In the 1st migration file `supabase/migrations/20240108234540_setup.sql` you wil
 This prevents issues with storage files not being deleted properly.
 
 ### 5. Install Ollama (optional for local models)
-
-Follow the instructions [here](https://github.com/jmorganca/ollama#macos).
 
 ### 6. Run app locally
 
